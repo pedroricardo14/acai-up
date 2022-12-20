@@ -40,12 +40,13 @@ main{
     width: 100%;
 }
 #copy{
-    width: 50%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     border: ;
 }
 #copy p{
+    width: 100%;
     margin-top: 3rem;
     font-size: 20px;
 }

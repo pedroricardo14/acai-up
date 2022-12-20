@@ -88,11 +88,14 @@ main{
     font-weight: bold;
     font-size: 40px;
 }
+.ilustracao{
+    margin: 0 0 10vw 10vw;
+    height: 600px;
+}
 .ilustracao img{
-    height: 500px;
+    height: 600px;
     margin: 0 0 3rem 3rem;
     float: right;
-    border: 2px solid green;
 }
 h1, p{
     color: blue;

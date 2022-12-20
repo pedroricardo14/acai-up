@@ -103,6 +103,7 @@ h1, p{
 #values{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin: 0 2vw 0 0;
 }
 #values h2{
     text-align: center;

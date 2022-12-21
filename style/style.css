@@ -92,10 +92,14 @@ main{
 .ilustracao{
     margin: 0 0 10vw 10vw;
     height: 600px;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .ilustracao img{
     height: 600px;
-    margin: 0 0 3rem 3rem;
+    margin: 0 3rem 3rem 3rem;
     float: right;
 }
 h1, p{
